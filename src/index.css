@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  background: linear-gradient(180deg, rgb(224, 122, 95) 0%, rgb(242, 204, 143) 40%, rgb(244, 241, 222) 100%);
+  height: 100vh;
+}

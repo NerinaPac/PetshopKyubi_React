@@ -1,0 +1,12 @@
+.contenedorLogo {
+    max-width: 260px;
+    padding: 0.2rem 0;
+    text-align: center;
+}
+
+.aLogo, h1 {
+    font-size: 30px;
+    color: #f4f1de;
+    text-decoration: none;
+  }
+  
